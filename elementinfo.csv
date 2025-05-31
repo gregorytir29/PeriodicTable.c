@@ -1,0 +1,119 @@
+AtomicNumber,Name,Symbol,Chemical Group Block,Row,Column
+1,Hydrogen,H,Nonmetal,1,1
+2,Helium,He,Noble gas,1,18
+3,Lithium,Li,Alkali metal,2,1
+4,Beryllium,Be,Alkaline earth metal,2,2
+5,Boron,B,Metalloid,2,13
+6,Carbon,C,Nonmetal,2,14
+7,Nitrogen,N,Nonmetal,2,15
+8,Oxygen,O,Nonmetal,2,16
+9,Fluorine,F,Halogen,2,17
+10,Neon,Ne,Noble gas,2,18
+11,Sodium,Na,Alkali metal,3,1
+12,Magnesium,Mg,Alkaline earth metal,3,2
+13,Aluminum,Al,Post-transition metal,3,13
+14,Silicon,Si,Metalloid,3,14
+15,Phosphorus,P,Nonmetal,3,15
+16,Sulfur,S,Nonmetal,3,16
+17,Chlorine,Cl,Halogen,3,17
+18,Argon,Ar,Noble gas,3,18
+19,Potassium,K,Alkali metal,4,1
+20,Calcium,Ca,Alkaline earth metal,4,2
+21,Scandium,Sc,Transition metal,4,3
+22,Titanium,Ti,Transition metal,4,4
+23,Vanadium,V,Transition metal,4,5
+24,Chromium,Cr,Transition metal,4,6
+25,Manganese,Mn,Transition metal,4,7
+26,Iron,Fe,Transition metal,4,8
+27,Cobalt,Co,Transition metal,4,9
+28,Nickel,Ni,Transition metal,4,10
+29,Copper,Cu,Transition metal,4,11
+30,Zinc,Zn,Transition metal,4,12
+31,Gallium,Ga,Post-transition metal,4,13
+32,Germanium,Ge,Metalloid,4,14
+33,Arsenic,As,Metalloid,4,15
+34,Selenium,Se,Nonmetal,4,16
+35,Bromine,Br,Halogen,4,17
+36,Krypton,Kr,Noble gas,4,18
+37,Rubidium,Rb,Alkali metal,5,1
+38,Strontium,Sr,Alkaline earth metal,5,2
+39,Yttrium,Y,Transition metal,5,3
+40,Zirconium,Zr,Transition metal,5,4
+41,Niobium,Nb,Transition metal,5,5
+42,Molybdenum,Mo,Transition metal,5,6
+43,Technetium,Tc,Transition metal,5,7
+44,Ruthenium,Ru,Transition metal,5,8
+45,Rhodium,Rh,Transition metal,5,9
+46,Palladium,Pd,Transition metal,5,10
+47,Silver,Ag,Transition metal,5,11
+48,Cadmium,Cd,Transition metal,5,12
+49,Indium,In,Post-transition metal,5,13
+50,Tin,Sn,Post-transition metal,5,14
+51,Antimony,Sb,Metalloid,5,15
+52,Tellurium,Te,Metalloid,5,16
+53,Iodine,I,Halogen,5,17
+54,Xenon,Xe,Noble gas,5,18
+55,Cesium,Cs,Alkali metal,6,1
+56,Barium,Ba,Alkaline earth metal,6,2
+57,Lanthanum,La,Lanthanide,8,4
+58,Cerium,Ce,Lanthanide,8,5
+59,Praseodymium,Pr,Lanthanide,8,6
+60,Neodymium,Nd,Lanthanide,8,7
+61,Promethium,Pm,Lanthanide,8,8
+62,Samarium,Sm,Lanthanide,8,9
+63,Europium,Eu,Lanthanide,8,10
+64,Gadolinium,Gd,Lanthanide,8,11
+65,Terbium,Tb,Lanthanide,8,12
+66,Dysprosium,Dy,Lanthanide,8,13
+67,Holmium,Ho,Lanthanide,8,14
+68,Erbium,Er,Lanthanide,8,15
+69,Thulium,Tm,Lanthanide,8,16
+70,Ytterbium,Yb,Lanthanide,8,17
+71,Lutetium,Lu,Lanthanide,8,18
+72,Hafnium,Hf,Transition metal,6,4
+73,Tantalum,Ta,Transition metal,6,5
+74,Tungsten,W,Transition metal,6,6
+75,Rhenium,Re,Transition metal,6,7
+76,Osmium,Os,Transition metal,6,8
+77,Iridium,Ir,Transition metal,6,9
+78,Platinum,Pt,Transition metal,6,10
+79,Gold,Au,Transition metal,6,11
+80,Mercury,Hg,Transition metal,6,12
+81,Thallium,Tl,Post-transition metal,6,13
+82,Lead,Pb,Post-transition metal,6,14
+83,Bismuth,Bi,Post-transition metal,6,15
+84,Polonium,Po,Metalloid,6,16
+85,Astatine,At,Halogen,6,17
+86,Radon,Rn,Noble gas,6,18
+87,Francium,Fr,Alkali metal,7,1
+88,Radium,Ra,Alkaline earth metal,7,2
+89,Actinium,Ac,Actinide,9,4
+90,Thorium,Th,Actinide,9,5
+91,Protactinium,Pa,Actinide,9,6
+92,Uranium,U,Actinide,9,7
+93,Neptunium,Np,Actinide,9,8
+94,Plutonium,Pu,Actinide,9,9
+95,Americium,Am,Actinide,9,10
+96,Curium,Cm,Actinide,9,11
+97,Berkelium,Bk,Actinide,9,12
+98,Californium,Cf,Actinide,9,13
+99,Einsteinium,Es,Actinide,9,14
+100,Fermium,Fm,Actinide,9,15
+101,Mendelevium,Md,Actinide,9,16
+102,Nobelium,No,Actinide,9,17
+103,Lawrencium,Lr,Actinide,9,18
+104,Rutherfordium,Rf,Transition metal,7,4
+105,Dubnium,Db,Transition metal,7,5
+106,Seaborgium,Sg,Transition metal,7,6
+107,Bohrium,Bh,Transition metal,7,7
+108,Hassium,Hs,Transition metal,7,8
+109,Meitnerium,Mt,Transition metal,7,9
+110,Darmstadtium,Ds,Transition metal,7,10
+111,Roentgenium,Rg,Transition metal,7,11
+112,Copernicium,Cn,Transition metal,7,12
+113,Nihonium,Nh,Post-transition metal,7,13
+114,Flerovium,Fl,Post-transition metal,7,14
+115,Moscovium,Mc,Post-transition metal,7,15
+116,Livermorium,Lv,Post-transition metal,7,16
+117,Tennessine,Ts,Halogen,7,17
+118,Oganesson,Og,Noble gas,7,18
