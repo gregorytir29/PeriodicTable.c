@@ -38,6 +38,13 @@ Screenshots of various views are available in the repository, including:
 - Group search with color highlights
 - Final screen from VSCode (since `.exe` auto-closes)
 
+- ![image](https://github.com/user-attachments/assets/8d97f5b4-1394-495e-9ae5-d3e5a7ca0c29)
+- ![image](https://github.com/user-attachments/assets/156462be-55c0-421d-a68f-0e4a514518b2)
+- ![image](https://github.com/user-attachments/assets/2259af3f-1db7-4c69-80d0-c024850a03ce)
+
+
+
+
 ---
 
 ✅ This project demonstrates practical use of file parsing, structured data in C, terminal-based UI control, and modular programming.
